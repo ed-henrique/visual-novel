@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 10: expected statement.
-(Perhaps you left out a " at the end of the first line.)
-    e """
-        
-    
-        
-        """
+File "game/script.rpy", line 10: expected 'simple_expression' not found.
+    zoom 
+         ^
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Mon Feb 20 14:58:04 2023
+Mon Feb 20 15:35:46 2023
